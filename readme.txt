@@ -7,3 +7,5 @@ Modify again, to check the rollback.
 Third modify.
 
 test the branch.
+---
+test the conflict in the master branch.
